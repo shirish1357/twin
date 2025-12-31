@@ -1,0 +1,21 @@
+{
+    "full_name": "Shirish Ghimire",
+    "name": "Shirish",
+    "current_role": "Business Data Analyst",
+    "location": "Salt Lake City, Utah, USA",
+    "email": "shirish.ghm@gmail.com",
+    "linkedin": "linkedin.com/in/shirishghimire/",
+    "specialties": [
+      "Data analytics",
+      "Data visualization",
+      "Artificial Intelligence"
+    ],
+    "years_experience": 4,
+    "education": [
+      {
+        "degree": "MBA, Business Analytics major",
+        "institution": "University of Delaware",
+        "year": "2021"
+      }
+    ]
+  }
